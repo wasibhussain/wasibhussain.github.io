@@ -1,8 +1,10 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
-      "namespace": "com.oneeyejack.app.one_eye_jack",
+      "namespace": "android_app",
       "package_name": "com.bit14.oneeyedjack",
       "sha256_cert_fingerprints": [
         "50:B6:8F:39:BD:25:D2:BF:DB:7F:BC:62:B0:D9:D8:BC:C8:14:59:59:9E:AC:C9:6F:4D:E4:89:6A:59:9A:2A:EC"
